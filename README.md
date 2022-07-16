@@ -1,0 +1,1 @@
+This is a personal project to write down crosswords on the computer, by default the size is 15x15 and the style is American (meaning the black cells are 180 degree axially symmetric about the center). Personal use only.
